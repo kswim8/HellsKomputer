@@ -28,7 +28,7 @@
       - playsound
 
 ### Files to be Run:
-      - Part 1: Linter --> main.py
+      - Part 1: Linter --> linter\main.py
       - Part 2: OpenCV --> GordonRamsayOpenCV-Hack112\src\gordon-ramsay.py
           - NOTE: depending on camera, line 12 in gordon-ramsay.py can vary:
               cap = cv2.VideoCapture(1)              <-- What I used.
